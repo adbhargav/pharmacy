@@ -13,7 +13,6 @@ export default function Contact() {
           <h1 className="text-3xl md:text-4xl font-bold text-[#0FA47F]">Contact Us</h1>
         </div>
       </section>
-
       {/* Contact Info + Form */}
       <section className="max-w-7xl mx-auto px-6 lg:px-12 py-20 animate-fade-in-up">
         <div className="text-center max-w-3xl mx-auto mb-16">
