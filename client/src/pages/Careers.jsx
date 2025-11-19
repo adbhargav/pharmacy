@@ -61,7 +61,7 @@ export default function Careers() {
     <div className="bg-gradient-to-b from-white to-[#F8FAFB] text-gray-800">
 
       {/* Hero Section */}
-      <HeroSlider pageTitle="Join Our Team" />
+     
       
       <section className="bg-white py-8 animate-fade-in-up">
         <div className="max-w-7xl mx-auto px-6 text-center">
