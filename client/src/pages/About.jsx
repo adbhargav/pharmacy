@@ -10,7 +10,7 @@ export default function About() {
       
       <section className="bg-white py-8 animate-fade-in-up">
         <div className="max-w-7xl mx-auto px-6 text-center">
-          <h1 className="text-3xl md:text-4xl font-bold text-[#0FA47F]">About Southern Blvd Pharmacy</h1>
+          
         </div>
       </section>
 
